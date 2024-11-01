@@ -1,0 +1,41 @@
+
+
+    
+    
+    
+
+
+#box{
+    align-items:center;
+    justify-content: center;
+    width:70vh;
+    margin:   35vw;
+    border: 1px solid black;
+    height: 40vw;
+    display: flex;
+    font-size: center;
+    background-color: rgb(132, 229, 233);
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.escola{
+    text-align: center;
+    
+}
+.h6{
+align-items: center;
+
+}
+
+
+
+
+
